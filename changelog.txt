@@ -1,0 +1,10 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 26.01.2021
+  Features:
+    - Space pipe underground length matches normal pipes
+    - Space belt underground length matches express belt undergrounds
+    - Include tweaks from various other mods:
+      - https://mods.factorio.com/mod/Krastorio2RFAC
+      - https://mods.factorio.com/mod/se-casting-recipes-in-kr2-advanced-furnace
+---------------------------------------------------------------------------------------------------
