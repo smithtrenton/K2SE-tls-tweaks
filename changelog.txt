@@ -4,7 +4,10 @@ Date: 26.01.2021
   Features:
     - Space pipe underground length matches normal pipes
     - Space belt underground length matches express belt undergrounds
-    - Include tweaks from various other mods:
+    - Deep space belt underground length matches superior belt undergrounds
+    - Update K2 advanced buildings to do lots of things for late game speed/UPS
+    - Inspiration from other mods:
       - https://mods.factorio.com/mod/Krastorio2RFAC
       - https://mods.factorio.com/mod/se-casting-recipes-in-kr2-advanced-furnace
+      - https://mods.factorio.com/mod/Speeds_and_feeds
 ---------------------------------------------------------------------------------------------------
