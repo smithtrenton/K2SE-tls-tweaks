@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.1
-Date: 26.01.2021
+Date: 04.07.2024
   Features:
     - Space pipe underground length matches normal pipes
     - Space belt underground length matches express belt undergrounds
@@ -10,3 +10,8 @@ Date: 26.01.2021
       - https://mods.factorio.com/mod/Krastorio2RFAC
       - https://mods.factorio.com/mod/se-casting-recipes-in-kr2-advanced-furnace
       - https://mods.factorio.com/mod/Speeds_and_feeds
+---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+Date: 06.07.2024
+  Features:
+    - Add bioprocessing and growth recipes to advanced chem plant
